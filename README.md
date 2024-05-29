@@ -24,3 +24,6 @@ After installing all dependencies, run this code
 npm start
 ```
     
+## Mac Os Users
+
+Don't forget to allow permissions for the Terminal if prompted.
