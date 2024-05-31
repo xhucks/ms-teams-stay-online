@@ -27,3 +27,5 @@ npm start
 ## Mac Os Users
 
 Don't forget to allow permissions for the Terminal if prompted.
+
+For ARM based Mac Os users, you can download directly the app from the "dist" folder
