@@ -10,6 +10,7 @@
   "author": "Kaizer",
   "license": "ISC",
   "dependencies": {
+    "node-gyp": "^10.1.0",
     "robotjs": "^0.6.0"
   }
 }
